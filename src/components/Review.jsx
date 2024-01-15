@@ -2,12 +2,13 @@ import React from "react";
 import { FaQuoteRight } from "react-icons/fa";
 import { FaStar } from "react-icons/fa6";
 import { FaStarHalfAlt } from "react-icons/fa";
+import Image from "next/image";
 
 const Review = () => {
   return (
     <div className=" max-w-[1280px] m-auto ">
       <h1 className="flex justify-center text-5xl font-bold text-[#FFC107] mb-[44px] ">
-        CUSTOMER'S REVIEW
+        CUSTOMERS REVIEW
       </h1>
       <div className="flex gap-4">
         <div className="flex flex-col justify-center place-items-center gap-6 py-5 px-4 border-2 border-[#FFC107] w-[500px]  ">
@@ -17,10 +18,12 @@ const Review = () => {
             Sit Libero Nemo Fuga Sequi Nobis? Necessitatibus Aut Laborum, Nisi
             Quas Eaque Laudantium Consequuntur Iste Ex Aliquam Minus Vel? Nemo.
           </p>
-          <img
-            src="./images/pic-1.png"
+          <Image
+            src="/images/pic-1.png"
             alt=""
-            className="w-[75px] rounded-full"
+            width={75}
+            height={0}
+           // className="w-[75px] rounded-full"
           />
           <h2 className="font-bold text-xl">John Doe</h2>
           <div className="flex text-[16px] text-[#FFC107]">
@@ -38,10 +41,12 @@ const Review = () => {
             Sit Libero Nemo Fuga Sequi Nobis? Necessitatibus Aut Laborum, Nisi
             Quas Eaque Laudantium Consequuntur Iste Ex Aliquam Minus Vel? Nemo.
           </p>
-          <img
-            src="./images/pic-1.png"
+          <Image
+            src="/images/pic-1.png"
             alt=""
-            className="w-[75px] rounded-full"
+            width={75}
+            height={0}
+            //className="w-[75px] rounded-full"
           />
           <h2 className="font-bold text-xl">John Doe</h2>
           <div className="flex text-[16px] text-[#FFC107]">
@@ -59,10 +64,12 @@ const Review = () => {
             Sit Libero Nemo Fuga Sequi Nobis? Necessitatibus Aut Laborum, Nisi
             Quas Eaque Laudantium Consequuntur Iste Ex Aliquam Minus Vel? Nemo.
           </p>
-          <img
-            src="./images/pic-1.png"
+          <Image
+            src="/images/pic-1.png"
             alt=""
-            className="w-[75px] rounded-full"
+            width={75}
+            height={0}
+            //className="w-[75px] rounded-full"
           />
           <h2 className="font-bold text-xl">John Doe</h2>
           <div className="flex text-[16px] text-[#FFC107]">
