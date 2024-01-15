@@ -12,7 +12,6 @@ const Contact = () => {
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3619.472814247961!2d67.14279750971039!3d24.88184897782323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb339c51bba9853%3A0xcfb28b11f98e18d4!2sKababjees%20Bakers!5e0!3m2!1sen!2s!4v1699814637612!5m2!1sen!2s"
             width="600"
             height="500"
-            // style="border:0;"
             allowfullscreen=""
             loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"

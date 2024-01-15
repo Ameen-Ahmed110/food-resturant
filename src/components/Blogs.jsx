@@ -14,7 +14,6 @@ const Blogs = () => {
             alt="blog1"
             width={500}
             height={250}
-           // className="  w-[500px] h-[250px]"
           />
           <div className="flex flex-col items-start gap-3 py-5 px-4">
             <h3 className="font-semibold text-[25px] ">
@@ -38,7 +37,6 @@ const Blogs = () => {
             alt="blog1"
             width={500}
             height={250}
-            //className="  w-[500px] h-[250px]"
           />
           <div className="flex flex-col items-start gap-3 py-5 px-4">
             <h3 className="font-semibold text-[25px] ">
@@ -63,7 +61,6 @@ const Blogs = () => {
             width={500}
             height={250}
 
-           // className="  w-[500px] h-[250px]"
           />
           <div className="flex flex-col items-start gap-3 py-5 px-4">
             <h3 className="font-semibold text-[25px] ">

@@ -8,15 +8,15 @@ const About = () => {
         About Us
       </h1>
       <div className="flex items-center w-[1280px] m-auto ">
-        {/* <div className=" bg-slate-400 "> */}
+        
           <Image
             src="/images/about.jpeg"
             alt=""
             width={700}
             height={600}
-            //className="w-[1300px] h-[500px] "
+            
           />
-        {/* </div> */}
+    
         <div className="bg-[#13131A] h-[500px] px-4 py-[70px] flex flex-col gap-6">
           <h2 className="text-3xl font-medium">What Makes Our Food Special?</h2>
           <p className="text-1xl leading-loose		 ">

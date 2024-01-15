@@ -12,7 +12,6 @@ const OurMenue = () => {
           <Image src="/images/product-1.png" alt="" 
           width={170}
           height={0}
-          //className="w-[170px] "
            />
           <div className="flex flex-col gap-3 place-items-center mb-4">
             <h2 className="font-bold text-2xl">Tasty And Healty</h2>
@@ -24,7 +23,6 @@ const OurMenue = () => {
         </div>
         <div className=" flex flex-col place-items-center gap-6 py-5 border-2 border-[#FFC107] w-[300px] ">
           <Image src="/images/product-1.png" alt="" 
-          //className="w-[170px] " 
           width={170}
           height={0}
 
@@ -39,7 +37,6 @@ const OurMenue = () => {
         </div>
         <div className=" flex flex-col place-items-center gap-6 py-5 border-2 border-[#FFC107] w-[300px] ">
           <Image src="/images/product-1.png" alt=""
-          // className="w-[170px] " 
           width={170}
           height={0}
           />
@@ -55,7 +52,6 @@ const OurMenue = () => {
           <Image src="/images/product-1.png" alt="" 
           width={170}
           height={0}
-         // className="w-[170px] "
            />
           <div className="flex flex-col gap-3 place-items-center mb-4">
             <h2 className="font-bold text-2xl">Tasty And Healty</h2>
@@ -67,7 +63,6 @@ const OurMenue = () => {
         </div>
         <div className=" flex flex-col place-items-center gap-6 py-5 border-2 border-[#FFC107] w-[300px] ">
           <Image src="/images/product-1.png" alt="" 
-          //className="w-[170px] " 
           width={170}
           height={0}
           />
@@ -81,7 +76,6 @@ const OurMenue = () => {
         </div>
         <div className=" flex flex-col place-items-center gap-6 py-5 border-2 border-[#FFC107] w-[300px] ">
           <Image src="/images/product-1.png" alt=""
-          // className="w-[170px] "
           width={170}
           height={0}
            />

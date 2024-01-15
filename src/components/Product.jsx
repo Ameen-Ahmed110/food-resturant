@@ -28,7 +28,6 @@ const Product = () => {
           <Image
             src="/images/product-1.png"
             alt=""
-            // className="w-[250px] "
             width={250}
             height={0}
           />
@@ -60,7 +59,6 @@ const Product = () => {
           <Image
             src="/images/product-2.png"
             alt=""
-            //className="w-[250px] "
             width={250}
             height={0}
           />
@@ -93,7 +91,6 @@ const Product = () => {
             alt=""
             width={250}
             height={0}
-            //className="w-[250px] "
           />
           <div className="flex flex-col gap-3 place-items-center">
             <h2 className="font-bold text-2xl">Fresh Coffee</h2>

@@ -11,12 +11,10 @@ const Navbar = () => {
           <Image src="/images/logo.png" 
            width={74}
            height={67}
-          //className="w-[74px] h-[67px]" 
           alt="" />
         </Link>
         <nav className="text-white flex gap-6 text-[16px] font-semibold ">
           <Link href="/">Home</Link>
-          {/* <Link href="/About">About</Link> */}
           <a href="#About">About</a>
           <Link href="/menu">Menu</Link>
           <Link href="/products">Products</Link>

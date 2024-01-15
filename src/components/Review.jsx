@@ -23,7 +23,6 @@ const Review = () => {
             alt=""
             width={75}
             height={0}
-           // className="w-[75px] rounded-full"
           />
           <h2 className="font-bold text-xl">John Doe</h2>
           <div className="flex text-[16px] text-[#FFC107]">
@@ -46,7 +45,6 @@ const Review = () => {
             alt=""
             width={75}
             height={0}
-            //className="w-[75px] rounded-full"
           />
           <h2 className="font-bold text-xl">John Doe</h2>
           <div className="flex text-[16px] text-[#FFC107]">
@@ -69,7 +67,6 @@ const Review = () => {
             alt=""
             width={75}
             height={0}
-            //className="w-[75px] rounded-full"
           />
           <h2 className="font-bold text-xl">John Doe</h2>
           <div className="flex text-[16px] text-[#FFC107]">
